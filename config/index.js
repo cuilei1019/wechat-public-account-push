@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "Ft63icRSD9K_gU-B91TEH7aCCg-QnEWhIE3rBOOlTTI",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -87,7 +87,7 @@ export const config = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2020-05-15"},
+        {"keyword": "love_day", date: "2020-05-15"}
         // 结婚纪念日
         //{"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
@@ -97,7 +97,7 @@ export const config = {
     {
       name: "崔磊",
       id: "oh-dB6RTCRjW9eao6tAlSzguC_g0",
-      useTemplateId: "_eo7JoQ6cXjZE1ORgUU4aksPRRxodPNNdIOsrdihXFM",
+      useTemplateId: "Ft63icRSD9K_gU-B91TEH7aCCg-QnEWhIE3rBOOlTTI",
       province: "北京",
       city: "北京",
       horoscopeDate: '',
@@ -186,11 +186,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2020-05-15"}
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    //{"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    //{"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
     // ...
   ],
