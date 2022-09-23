@@ -60,11 +60,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oh-dB6ZB9K9Rqi79IRzAvP1Vs360",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "woQkHvx-ueBQI76J3e33Y3D5IYh2GgL8RlrJnjyHo0k",
+      useTemplateId: "G-9fuKsChtwKiqCtexkShPQNSa9uOF7cMORjBAko-Bs",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -97,7 +97,7 @@ export const config = {
     {
       name: "崔磊",
       id: "oh-dB6RTCRjW9eao6tAlSzguC_g0",
-      useTemplateId: "woQkHvx-ueBQI76J3e33Y3D5IYh2GgL8RlrJnjyHo0k",
+      useTemplateId: "G-9fuKsChtwKiqCtexkShPQNSa9uOF7cMORjBAko-Bs",
       province: "北京",
       city: "北京",
       horoscopeDate: '10-19',
