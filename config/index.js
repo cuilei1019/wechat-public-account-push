@@ -97,7 +97,7 @@ export const config = {
     {
       name: "崔磊",
       id: "oh-dB6RTCRjW9eao6tAlSzguC_g0",
-      useTemplateId: "	_eo7JoQ6cXjZE1ORgUU4aksPRRxodPNNdIOsrdihXFM",
+      useTemplateId: "_eo7JoQ6cXjZE1ORgUU4aksPRRxodPNNdIOsrdihXFM",
       province: "北京",
       city: "北京",
       horoscopeDate: '',
@@ -127,7 +127,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "_eo7JoQ6cXjZE1ORgUU4aksPRRxodPNNdIOsrdihXFM",
+  CALLBACK_TEMPLATE_ID: "BazPi7yJNI1bHhcb4X1HpisPelRqGfdpkvdWCQj_6G0",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
