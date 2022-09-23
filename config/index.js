@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Ft63icRSD9K_gU-B91TEH7aCCg-QnEWhIE3rBOOlTTI",
+      useTemplateId: "woQkHvx-ueBQI76J3e33Y3D5IYh2GgL8RlrJnjyHo0k",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -97,14 +97,15 @@ export const config = {
     {
       name: "崔磊",
       id: "oh-dB6RTCRjW9eao6tAlSzguC_g0",
-      useTemplateId: "Ft63icRSD9K_gU-B91TEH7aCCg-QnEWhIE3rBOOlTTI",
+      useTemplateId: "woQkHvx-ueBQI76J3e33Y3D5IYh2GgL8RlrJnjyHo0k",
       province: "北京",
       city: "北京",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      horoscopeDate: '10-19',
+      // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [{"type": "*生日", "name": "美丽可爱亲亲老婆", "year": "1998", "date": "12-02"}],
+      customizedDateList: [{"keyword": "love_day", date: "2020-05-15"}]
     }
     // 你可以不断按格式往下增加
     // ...
